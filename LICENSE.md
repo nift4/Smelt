@@ -1,5 +1,6 @@
 The MIT License (MIT)
 
+Copyright (c) 2018 nift4
 Copyright (c) 2016 Gnasp
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
