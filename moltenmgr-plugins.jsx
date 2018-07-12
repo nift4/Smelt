@@ -16,7 +16,7 @@ commander
           'List all available plugins.')
   .option('--howto <plugin>','Get info of how to use the plugin,');
   
-process.argv[1] = 'smelt plugins';
+process.argv[1] = 'moltenmgr plugins';
 commander.parse(process.argv);  
 
 Settings.ReadConfigs();
