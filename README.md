@@ -13,8 +13,7 @@ How it works
 
 ![How it works](./Docs/smelt-demo.gif)
 
-It's a fork of the awesome [Smelt](http://smelt.gnasp.com/) for Minecraft 1.13!
-For older versions of Minecraft (1.9-1.11) (1.12 is working with setting 1.11 :) !!) use [Smelt](https://nodei.co/npm/smelt-cli/)
+It's a fork of the awesome [Smelt](http://smelt.gnasp.com/) for Minecraft 1.9-1.13!
 
 ![Logo](./Docs/logo.png)
 
