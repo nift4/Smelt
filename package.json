@@ -20,7 +20,7 @@
   },
   "deprecated": false,
   "description": "A CLI tool for Minecraft map makers.(Fork of Smelt for 1.13)",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "name": "gifgag-molten",
   "preferGlobal": true,
   "version": "2.0.0"
