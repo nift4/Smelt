@@ -1,7 +1,7 @@
 Molten
 ==================
 
-![Molten logo](./Docs/logo-molten.png)
+![Molten logo](./Docs/molten-logo.png)
 
 Install
 -------
