@@ -1,6 +1,8 @@
 Molten
 ==================
 
+![Molten logo](./Docs/logo-molten.png)
+
 Install
 -------
 * Install [Node](https://nodejs.org).
